@@ -1,0 +1,9 @@
+server:
+  port: 6767
+
+spring:
+  application:
+    name: oder-service
+  cloud:
+    nacos:
+      server-addr: localhost:8848

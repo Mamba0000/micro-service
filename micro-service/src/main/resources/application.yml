@@ -1,0 +1,9 @@
+server:
+  port: 6565
+
+spring:
+  application:
+    name: micro-service
+  cloud:
+    nacos:
+      server-addr: localhost:8848
